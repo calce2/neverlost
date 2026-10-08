@@ -1,3 +1,34 @@
+<!-- repository-overview:start -->
+## 📌 저장소 한눈에 보기
+
+**이미지 요청 기반 방문 기록 수집·조회 도구**
+
+| 구분 | 내용 |
+|---|---|
+| 분류 | 기타 서비스·도구 |
+| 공개 범위 · 2026-10-09 확인 | 공개 |
+| 저장소 형태 | 외부 프로젝트 포크 |
+| 기본 브랜치 | `main` |
+| 주요 구성 | Cloudflare Workers·D1·R2·Python 클라이언트 |
+
+### 주요 기능·내용
+
+- 추적 코드별 IP·브라우저 접속 기록
+- Python 클라이언트로 기록 조회
+
+원본 프로젝트: [gnh1201/neverlost](https://github.com/gnh1201/neverlost)
+
+### 바로 관리하기
+
+**[📝 설명·메모 수정](https://github.com/calce2/neverlost/edit/main/README.md) · [⚙️ 설정](https://github.com/calce2/neverlost/settings) · [📦 보관 / 🗑️ 삭제 설정](https://github.com/calce2/neverlost/settings#danger-zone)**
+
+보관·삭제 링크는 해당 저장소의 Settings → Danger Zone으로 이동합니다. 실행은 그 화면에서 선택하고 확인합니다.
+
+<sub>2026-10-09 작성 · 코드·문서를 기준으로 한 소개입니다. 공개 범위와 기능이 바뀌면 이 기록도 갱신하세요.</sub>
+<!-- repository-overview:end -->
+
+---
+
 # neverlost
 
 [![Discord chat](https://img.shields.io/discord/359930650330923008?logo=discord)](https://discord.gg/exPsSYpQfJ?utm_source=catswords)
